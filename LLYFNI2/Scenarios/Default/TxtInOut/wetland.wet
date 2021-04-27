@@ -1,0 +1,7 @@
+wetland.wet: written by SWAT+ editor v1.2.3 on 2021-01-24 15:52
+      id  name                          init               hyd               rel               sed               nut  
+       1  wet640                    initwet1         hydwet640           wetland           sedwet1           nutwet1  
+       2  wet644                    initwet1         hydwet644           wetland           sedwet1           nutwet1  
+       3  wet650                    initwet1         hydwet650           wetland           sedwet1           nutwet1  
+       4  wet652                    initwet1         hydwet652           wetland           sedwet1           nutwet1  
+       5  wet656                    initwet1         hydwet656           wetland           sedwet1           nutwet1  
